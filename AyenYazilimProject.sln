@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFunction", "ApiFunction\ApiFunction.csproj", "{C12BF6D5-715A-40BC-8A0B-87BA06FA7BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AyenProjectApi", "AyenProjectApi\AyenProjectApi.csproj", "{BDFFE135-DF63-40CF-B8D2-89FA6DE06A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12BF6D5-715A-40BC-8A0B-87BA06FA7BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12BF6D5-715A-40BC-8A0B-87BA06FA7BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12BF6D5-715A-40BC-8A0B-87BA06FA7BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12BF6D5-715A-40BC-8A0B-87BA06FA7BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFFE135-DF63-40CF-B8D2-89FA6DE06A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFFE135-DF63-40CF-B8D2-89FA6DE06A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFFE135-DF63-40CF-B8D2-89FA6DE06A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFFE135-DF63-40CF-B8D2-89FA6DE06A43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5707D7BE-BB31-4782-A6E2-0A1A77438F16}
+	EndGlobalSection
+EndGlobal
