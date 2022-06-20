@@ -26,6 +26,7 @@ namespace AyenProjectApi.Controllers
 
             var res = _ayenApi.GetAyenProduct();
             return Json(new { data = res });
+
         }
 
         public IActionResult Privacy()
